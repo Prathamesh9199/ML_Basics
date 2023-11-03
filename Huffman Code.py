@@ -94,7 +94,7 @@ if __name__ == '__main__':
     huffmanCode = {}
     
     # Initiate string for which we need to derive huffman code
-    string = 'POORNIMAPATHAK'
+    string = 'PRATHAMESHJOSHI'
     print('\n ', string)
     
     # Get dictionary with character as key frequency as value
